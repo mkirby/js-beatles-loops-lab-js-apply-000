@@ -19,5 +19,7 @@ function johnLennonFacts(arrayOfFacts) {
 
 function iLoveTheBeatles(num) {
   let whoDoYouLove = '';
-  
+  do {
+    
+  } while ();
 }
